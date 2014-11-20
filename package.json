@@ -9,6 +9,9 @@
   "author": "Suthon Sae-wong",
   "license": "ISC",
   "dependencies": {
-    "express": "~4.10.1"
+    "express": "~4.10.1",
+    "mongojs": "~0.15.1",
+    "body-parser": "~1.9.2",
+    "socket.io": "~1.2.0"
   }
 }
